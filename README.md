@@ -1,2 +1,2 @@
 # reactArtifacts
-A Github Action workflow to build React Artifacts and deploy to current branch on PR
+A Github Action workflow to build React Artifacts and deploy zip artefacts to current branch on PR
